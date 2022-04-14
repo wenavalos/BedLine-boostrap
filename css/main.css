@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(253, 217, 173);
+}
+
+
+main, section{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h1{
+    color: rgb(3, 3, 116);
+}
+
+.map{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.btn-primary{
+    margin: 0.5rem;
+}
+
+footer{
+    background-color: rgb(197, 190, 190);
+}
+
